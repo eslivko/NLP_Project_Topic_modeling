@@ -1,5 +1,4 @@
-# NLP_Project_Topic_modeling
-Project on Comparison of topic modeling techniques for NLP course.
+# NLP Project "Comparison of Topic modeling techniques"
 
 Modules:
 data_process.py - data preprocessing for topic modeling:
